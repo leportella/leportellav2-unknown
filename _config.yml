@@ -10,7 +10,7 @@ description:      >
     I'm a dev, in love with data science that loves to write technical posts 
     about what I'm learning, specially Python, Django and Data Science stuff
 
-url:              "https://leportella.github.io"
+url:              "http://leportella.com"
 baseurl:          "/mywebsite/" # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
