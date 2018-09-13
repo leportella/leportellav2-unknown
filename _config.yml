@@ -11,7 +11,7 @@ description:      >
     about what I'm learning, specially Python, Django and Data Science stuff
 
 url:              "http://leportella.com" # no https
-baseurl:          "/mywebsite" # the optional subpath of your site, e.g. "/blog"
+baseurl:          "/mywebsite/" # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
